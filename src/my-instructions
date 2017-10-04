@@ -1,0 +1,12 @@
+  143  touch cli_notes.md
+  144  atom cli_notes.md
+  145  mkdir notes
+  146  mv cli_notes.md notes
+  147  cd notes
+  148  cp cli_notes.md cli_notes_2.md
+  149  mv cli_notes_2.md cli_commands.md
+  150  ls
+  151  rm cli_notes.md
+  152  cat cli_commands.md
+  153  cd ..
+  154  rm -r notes
